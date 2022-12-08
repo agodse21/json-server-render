@@ -2,39 +2,9 @@
   "users": [
     {
       "id": 1,
-      "name": "Gertrudis Tatterton",
-      "age": 18,
-      "state": "maharashtra",
-      "year": 2024
-      
-    },
-    {
-      "id": 2,
-      "name": "Gail Newbatt",
-      "age": 53,
-      "state": "rajstan",
-      "year": 2021
-    },
-    {
-      "id": 3,
-      "name": "Walliw Wilstead",
-      "age": 49,
-      "state": "utter pradesh",
-      "year": 2020
-    },
-    {
-      "id": 4,
-      "name": "Abran Proback",
-      "age": 29,
-      "state": "gujrat",
-      "year": 2023
-    },
-    {
-      "id": 5,
-      "name": "Roda Chappelow",
-      "age": 31,
-      "state": "delhi",
-      "year": 2022
+      "full_name": "Gertrudis Tatterton",
+      "email": "amol@gmail.com",
+      "password": "amol123"
     }
   ],
   "Books": [
