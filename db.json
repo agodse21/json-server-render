@@ -5,8 +5,17 @@
       "full_name": "Gertrudis Tatterton",
       "email": "amol@gmail.com",
       "password": "amol123",
-      "username":"Amol21",
-      "avatarUrl":"https://karabache.files.wordpress.com/2016/12/2016-12-08-21-11-29.jpg"
+      "username": "Amol21",
+      "avatarUrl": "https://karabache.files.wordpress.com/2016/12/2016-12-08-21-11-29.jpg"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "avatarUrl": "https://karabache.files.wordpress.com/2016/12/2016-12-08-21-11-29.jpg",
+      "username": "Amol21",
+      "tweet": "Amol is great",
+      "gif": "https://karabache.files.wordpress.com/2016/12/2016-12-08-21-11-29.jpg"
     }
   ],
   "Books": [
